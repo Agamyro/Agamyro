@@ -14,18 +14,4 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="skills"/> 
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
-  </a>
 </p>
