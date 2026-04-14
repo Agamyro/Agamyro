@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **agamyro1@outlook.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1uoNiJK8Ya8J-n3uTsWIJ7GmP38SeKH81/view?usp=sharing](https://skillicons.dev/icons?i=bootstrap)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1uoNiJK8Ya8J-n3uTsWIJ7GmP38SeKH81/view?usp=sharing)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
