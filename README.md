@@ -11,8 +11,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=js,html,css" alt="skills"/> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="skills"/> 
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
