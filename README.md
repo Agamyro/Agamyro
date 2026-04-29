@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning **JavaScript**
 
-📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1uoNiJK8Ya8J-n3uTsWIJ7GmP38SeKH81/view?usp=sharing)**
+📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1vZv6LanpmOl5AKS9gPIM4YCXZdcgWOHa/view?usp=sharing)**
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> 
